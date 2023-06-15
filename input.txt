@@ -1,0 +1,2 @@
+n  step  time  x0   phi0   v0   u0   k      m      I        D      a    b
+5  0.01  10   0.05    0    0   0.5  2    0.2      0.2      2    13   13
